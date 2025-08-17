@@ -1,5 +1,5 @@
-# Raccoon Flash Explorer
-Raccoon Flash Explorer -- Software updates &amp; Info
+# Raccoon Flash Explorer homepage
+Software updates &amp; Info
 
 ---
 Fresh firmware updates and various important information about the project are published here.
