@@ -1,5 +1,5 @@
 # Raccoon Flash Explorer homepage
-## [Download the latest firmware updates](https://github.com/lapot2/Raccoon_Flash_Explorer/releases)
+## [<ins>Download the latest firmware updates</ins>](https://github.com/lapot2/Raccoon_Flash_Explorer/releases)
 
 ---
 Fresh firmware updates and various important information about the project are published here.
