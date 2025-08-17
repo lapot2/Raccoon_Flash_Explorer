@@ -6,4 +6,4 @@ theme: jekyll-theme-minimal
 logo: avatar.jpg
 title: Raccoon Flash Explorer
 description: rfe test homepage
-show_downloads: true
+#show_downloads: true
